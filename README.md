@@ -4,6 +4,9 @@
 
 This project implements a simplified Football Ticket Booking System database using PostgreSQL. The system manages football fans, tournament matches, and ticket booking transactions. It demonstrates database design principles, entity relationships, referential integrity, and SQL query writing.
 
+## ERD
+https://drive.google.com/file/d/1QHA0u0NbH0UlnlR0TJ_i1tsS_Z1DMPKC/view?usp=sharing
+
 ## Database Structure
 
 The system consists of three main tables:
